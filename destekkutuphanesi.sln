@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "destektestprojesi", "destekkutuphanesi\destektestprojesi.csproj", "{1572ECAC-A0B3-4AA2-AEC1-3B125D151658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "destekkutuphane", "destekkutuphane\destekkutuphane.csproj", "{E14C8A57-6A41-4E03-83FA-178F2D42B9E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1572ECAC-A0B3-4AA2-AEC1-3B125D151658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1572ECAC-A0B3-4AA2-AEC1-3B125D151658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1572ECAC-A0B3-4AA2-AEC1-3B125D151658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1572ECAC-A0B3-4AA2-AEC1-3B125D151658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E14C8A57-6A41-4E03-83FA-178F2D42B9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14C8A57-6A41-4E03-83FA-178F2D42B9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14C8A57-6A41-4E03-83FA-178F2D42B9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14C8A57-6A41-4E03-83FA-178F2D42B9E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
